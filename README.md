@@ -2,7 +2,7 @@
 # Awesome Digital Twins in Sport [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-<img src="/.github/logo/Logo_256.png" alt="Awesome Digital Twins in Sport logo" style="height: 126px; width:126px; border-radius: 50%"/>
+<img src="/.github/logo/Logo_256.png" alt="Awesome Digital Twins in Sport logo" style="height: 126px; width:126px; border-radius: 50%;"/>
 </p>
 
 ---
