@@ -30,6 +30,8 @@ This repository serves as a comprehensive list for researchers and practitioners
 
 ## Review papers 📃
 
+-   Hliš, Tilen, et al. “[Digital twins in sport: Concepts, taxonomies, challenges and practical potentials](https://doi.org/10.1016/j.eswa.2024.125104).” *Expert Systems with Applications*, vol. 258, 2024, p. 125104, doi:[10.1016/j.eswa.2024.125104](https://doi.org/10.1016/j.eswa.2024.125104).
+
 ## Research papers 🔬
 
 ## Dissertations or Theses 📒
