@@ -29,13 +29,11 @@ This repository serves as a comprehensive list for researchers and practitioners
 
 ## 📚 Books
 
--   Blondin, Maude J., Fister Jr., Iztok, and Pardalos, Panos M. “[Artificial Intelligence, Optimization, and Data Sciences in Sports](https://link.springer.com/book/9783031760464?utm_source=chatgpt.com).” *Springer*, February 2025.
+-   Blondin, Maude J., Fister Jr., Iztok, and Pardalos, Panos M. “[Artificial Intelligence, Optimization, and Data Sciences in Sports](https://link.springer.com/book/9783031760464).” *Springer*, February 2025.
 
--   Boschert, Stefan, and Rosen, Roland. “[Digital Twin: Basics and Applications](https://link.springer.com/book/10.1007/978-3-030-99313-9).” *Springer*, 2021. DOI: [10.1007/978-3-030-99313-9](https://doi.org/10.1007/978-3-030-99313-9).
+-   Lv, Zhihan, and Fersman, Elena. “[Digital Twin: Basics and Applications](https://link.springer.com/book/10.1007/978-3-031-11401-4).” *Springer*, 2022. DOI: [10.1007/978-3-031-11401-4](https://doi.org/10.1007/978-3-031-11401-4).
 
--   Dhanaraj, Rajesh Kumar, Balasubramanian, R., and Kumar, Gopalakrishnan. “[Digital Twin Technologies for Healthcare 4.0](https://link.springer.com/book/10.1007/978-981-19-1463-3).” *Springer*, 2022. DOI: [10.1007/978-981-19-1463-3](https://doi.org/10.1007/978-981-19-1463-3).
-
--   Padmanabhan, Paddy, and Marx, Edward W. “[Healthcare Digital Transformation: How Consumerism, Technology and Pandemic are Accelerating the Future](https://www.amazon.com/Healthcare-Digital-Transformation-Consumerism-Accelerating/dp/0367477786).” *CRC Press*, 2020. ISBN: [978-0367477782](https://www.amazon.com/Healthcare-Digital-Transformation-Consumerism-Accelerating/dp/0367477786).
+-   Dhanaraj, Rajesh Kumar, Balasubramanian, R., and Kumar, Gopalakrishnan. “[Digital Twin Technologies for Healthcare 4.0](https://shop.theiet.org/digital-twin-technologies-for-healthcare-4-0).” *The Institution of Engineering and Technology (IET)*, 2022. ISBN: [978-1839532601](https://shop.theiet.org/digital-twin-technologies-for-healthcare-4-0).
 
 ## Review papers 📃
 
