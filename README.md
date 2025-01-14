@@ -25,6 +25,7 @@ This repository serves as a comprehensive list for researchers and practitioners
 -   [Benchmarks 🧪](#benchmarks-)
 -   [Software 💻](#software-)
 -   [Web Applications 🌐](#web-applications-)
+-   [Contributing 📥](#contributing)
 
 ## 📚 Books
 
@@ -131,6 +132,15 @@ This repository serves as a comprehensive list for researchers and practitioners
     It can be utilized for developing smart sports facilities, monitoring athlete performance, and enhancing training through data-driven insights.
 
 ## Web Applications 🌐
+
+---
+## 📥 Contributing
+
+Want to contribute to this awesome list? Check out our [**Contribution Guidelines**](CONTRIBUTING.md) to get started!
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
