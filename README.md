@@ -138,7 +138,7 @@ Want to contribute to this awesome list? Check out our [**Contribution Guideline
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+See `LICENSE` for more information.
 
 ---
 
