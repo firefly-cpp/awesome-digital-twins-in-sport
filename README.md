@@ -25,7 +25,7 @@ This repository serves as a comprehensive list for researchers and practitioners
 -   [Benchmarks 🧪](#benchmarks-)
 -   [Software 💻](#software-)
 -   [Web Applications 🌐](#web-applications-)
--   [Contributing 📥](#contributing)
+-   [Contributing 📥](#contributing-)
 
 ## 📚 Books
 
@@ -134,7 +134,7 @@ This repository serves as a comprehensive list for researchers and practitioners
 ## Web Applications 🌐
 
 ---
-## 📥 Contributing
+## Contributing 📥
 
 Want to contribute to this awesome list? Check out our [**Contribution Guidelines**](CONTRIBUTING.md) to get started!
 
