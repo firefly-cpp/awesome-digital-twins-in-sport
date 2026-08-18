@@ -1,37 +1,50 @@
-# How to Contribute to Awesome Digital Twins in Sport
+# Contributing to Awesome Digital Twins in Sport
 
-Thank you for your interest in contributing to the **Awesome Digital Twins in Sport** collection! 🙌  
-Your contributions help make this list more comprehensive and valuable for the community.
+Thank you for helping improve this collection. Contributions should make the list more useful to researchers and practitioners working on digital twins in sport.
 
-## 📚 What Can You Contribute?
+## What Belongs Here
 
-You can contribute by adding:
+We welcome:
 
-- **Books** related to Digital Twins in Sports  
-- **Review papers** and **Research papers**  
-- **Dissertations or Theses**  
-- **Tutorials** for Digital Twin technologies in sports  
-- **Datasets**, **Benchmarks**, and **Software Tools**  
-- **Web Applications** demonstrating Digital Twin implementations in sports
+- books, surveys, journal articles, conference papers, and book chapters;
+- theses and dissertations;
+- perspectives that discuss digital twins in a substantive sports context;
+- datasets used to build or evaluate athlete, team, or facility twins; and
+- documented software with a clear digital-twin use case in sport.
 
-## 🚀 How to Contribute
+Core digital-twin work should explicitly define, construct, validate, or deploy a digital twin for an athlete, training process, team, sports robot, or sports facility. Interdisciplinary work may be added to **Related and Enabling Research** when it contributes a method needed by such systems, such as sensing, biomechanical modelling, personalised recommendations, or multi-agent decision making.
 
-1. **Fork** this repository.  
-2. **Create a new branch** for your contribution.  
-3. **Add your content** in the correct category in `README.md`.  
-4. **Use the correct citation format** (see below).  
-5. **Submit a Pull Request (PR)** to the `main` branch.
+The collection contains historically curated interdisciplinary sources. These remain part of the collection; the criteria above guide new submissions.
 
-## 📝 Citation Format
+## Before You Submit
 
-All citations should follow the **MLA 9th edition citation format**.
+- Search the README for the title, DOI, and URL to avoid duplicates.
+- Prefer a canonical HTTPS DOI link or an official publisher, institutional repository, dataset, or project page.
+- Avoid link shorteners, search-result pages, and unauthorised copies.
+- Confirm the title, authors, venue, year, volume, issue, and pages or article number against the primary source.
+- For software, link to the source repository and confirm that it has a public licence and usable documentation.
+- Add the item to the most specific section and keep entries alphabetised by the first author or project name.
 
-**Example:**  
+## Entry Format
 
--   Hliš, Tilen, et al. “[Digital twins in sport: Concepts, taxonomies, challenges and practical potentials](https://doi.org/10.1016/j.eswa.2024.125104).” *Expert Systems with Applications*, vol. 258, 2024, p. 125104, doi:[10.1016/j.eswa.2024.125104](https://doi.org/10.1016/j.eswa.2024.125104).
+Use an MLA 9-style citation followed by one concise sentence explaining why the resource belongs in the collection. Link the title to its canonical source and do not repeat the DOI at the end.
 
+```markdown
+- Hliš, Tilen, Iztok Fister, and Iztok Fister Jr. “[Digital Twins in Sport: Concepts, Taxonomies, Challenges and Practical Potentials](https://doi.org/10.1016/j.eswa.2024.125104).” *Expert Systems with Applications*, vol. 258, 2024, article 125104. — Establishes a sport-specific taxonomy and research agenda for digital twins.
+```
 
-## 💡 Contribution Tips
--   Ensure that the content is relevant to Digital Twins in Sport.
--   Double-check for correct formatting and broken links.
--   Be respectful and constructive when reviewing or commenting on contributions.
+For software, use the project name followed by a practical description:
+
+```markdown
+- [Project name](https://example.com) - Describes what the project does, its licence, and how it implements or supports a sports digital twin.
+```
+
+## Pull Request Process
+
+1. Fork the repository and create a focused branch.
+2. Update the correct section in `README.md`.
+3. Check spelling, citation metadata, alphabetical ordering, and Markdown formatting.
+4. Run `npx --yes awesome-lint@2.3.0` when Node.js 20 or newer is available.
+5. Open a pull request that briefly explains the resource’s relevance.
+
+By submitting a contribution, you agree that it will be distributed under the repository’s existing licence.

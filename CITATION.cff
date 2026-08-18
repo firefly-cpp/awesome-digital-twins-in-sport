@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use this collection in academic work, please cite the associated
+  review article below.
+title: Awesome Digital Twins in Sport
+type: dataset
+authors:
+  - family-names: Hliš
+    given-names: Tilen
+  - family-names: Fister
+    given-names: Iztok
+    name-suffix: Jr.
+repository-code: https://github.com/HlisTilen/awesome-digital-twins-in-sport
+url: https://github.com/HlisTilen/awesome-digital-twins-in-sport
+license: CC-BY-SA-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Hliš
+      given-names: Tilen
+    - family-names: Fister
+      given-names: Iztok
+    - family-names: Fister
+      given-names: Iztok
+      name-suffix: Jr.
+  title: >-
+    Digital twins in sport: Concepts, taxonomies, challenges and practical
+    potentials
+  journal: Expert Systems with Applications
+  volume: "258"
+  year: 2024
+  doi: 10.1016/j.eswa.2024.125104
