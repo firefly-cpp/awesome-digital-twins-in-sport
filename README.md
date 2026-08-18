@@ -95,7 +95,7 @@ The collection intentionally includes both direct digital-twin implementations a
 
 - Gámez Díaz, Rogelio. “[Digital Twin Coaching for Edge Computing Using Deep Learning Based 2D Pose Estimation](https://doi.org/10.20381/ruor-26229).” Master’s thesis, University of Ottawa, 2021. — Develops an edge-based coaching twin using deep-learning pose estimation.
 - Laamarti, Fedwa. “[Towards Standardized Digital Twins for Health, Sport, and Well-Being](https://doi.org/10.20381/ruor-23746).” Master’s thesis, University of Ottawa, 2019. — Investigates standardised digital twins spanning health, sport, and well-being.
-- Sars, Erik, and Sophia Cedermalm. “[Simulating Professional Dance with a Biomechanical Model of a Human Body](https://www.diva-portal.org/smash/get/diva2:1681238/FULLTEXT01.pdf).” Thesis, 2022. — Provides a biomechanical dance simulation that can support movement-oriented human twins.
+- Sars, Erik, and Sophia Cedermalm. “[Simulating Professional Dance with a Biomechanical Model of a Human Body](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-186900).” Thesis, 2022. — Provides a biomechanical dance simulation that can support movement-oriented human twins.
 
 ## Perspectives
 
