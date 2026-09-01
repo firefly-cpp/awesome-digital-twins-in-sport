@@ -29,6 +29,9 @@ jobs:
           node-version: 20
 
       - name: Lint the awesome list
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx --yes awesome-lint@2.3.0
 
   links:
